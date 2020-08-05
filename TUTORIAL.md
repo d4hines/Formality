@@ -275,6 +275,20 @@ here when you're ready for the natural numbers!
 ☕ The Nat Type
 ============
 
+Naturally, many programs deal with numbers. But what's a natural number anyway?
+The natural numbers (sometimes written as $\mathbb{N}$) are just the same numbers
+you learned as a kid, before your math teachers confused things with all those "negative",
+"real", or even "imaginary" numbers. The naturals are our old friends 0, 1, 2, 3, and so on.
+
+There are infinitely many naturals, and that's more than we can hold in our heads, so we need clever
+ways of writing them down. [Arabic script](https://en.wikipedia.org/wiki/Arabic_numerals) is likely
+what you learned first, and is a decimal (base 10) system. Computers tend to think in
+binary numbers (base 2): 0, 1, 10, 11, and so on. But the simplest possible representation of numbers
+is unary (base 1). Unary numbers are like marks of chalk on a wall (let's draw it ➕), with a special
+mark for zero (let's draw it 〰️): so ️➕〰️️ is 1, ➕➕〰️ is 2, ➕➕➕〰️ is 3, and so on. Following
+tradition, let's call ➕
+
+you
 **⚠️Warning: The rest of this tutorial is under construction
 and might not type check immediately!⚠️** 
 
